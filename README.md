@@ -1,4 +1,4 @@
-# Tile-Assemble-simulator-in-Python-using-OPENCV
+# Tile-Assembly-simulator-in-Python-using-OPENCV
 
 
 ## Instructions : 
